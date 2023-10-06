@@ -1154,7 +1154,8 @@ body, html {
 }
 
 .certfied{
-    margin: 25px 0px;
+  margin: 25px 0px 15px;
+  text-align: center;
 }
 
 .certfied h5{
